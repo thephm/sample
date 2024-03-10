@@ -11,12 +11,8 @@
             "id": "411a500ec9e25bb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science People's Birthdays.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science People's Birthdays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science People's Birthdays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science People's Birthdays.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "411a500ec9e25bb0",
   "lastOpenFiles": [
-    "people.md",
     "Computer Science People's Birthdays.md",
+    "people.md",
     "Computer Science People.pdf",
     "david-heinemeier-hansson/David Hansson.md",
     "jon-postel/Jon Postel.md",
