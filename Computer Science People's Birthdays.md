@@ -20,44 +20,47 @@ Day | Person | Year | Age
 24 | [[Steve Jobs]] | 1955 | 56
 ## March
 
-Day | Person | Year | Age
-:-:|---|:-:|:-:
-11 | [[Vannevar Bush]] | 1890 | 84
-13 | [[David Cutler]] | 1942 | 81
-16 | [[Andrew Tanenbaum]] | 1944 | 79
-16 | [[Richard Stallman]] | 1953 | 70
-21 | [[Scott Fahlman]] | 1948 | 75
-26 | [[Larry Page]] | 1973 | 50
-30 | [[Brian Behlendorf]] | 1973 | 50
+| Day | Person               | Year | Age |
+| :-: | -------------------- | :--: | :-: |
+| 11  | [[Vannevar Bush]]    | 1890 | 84  |
+| 13  | [[David Cutler]]     | 1942 | 81  |
+| 16  | [[Andrew Tanenbaum]] | 1944 | 79  |
+| 16  | [[Richard Stallman]] | 1953 | 70  |
+| 21  | [[Scott Fahlman]]    | 1948 | 75  |
+| 26  | [[Larry Page]]       | 1973 | 50  |
+| 30  | [[Brian Behlendorf]] | 1973 | 50  |
+
 ## April
 
-Day | Person | Year | Age
-:-:|---|:-:|:-:
-07 | [[Bob Metcalfe]] | 1946 | 77
-14 | [[Yukihiro Matsumoto]] | 1965 | 58
-18 | [[Andrew Ng]] | 1976 | 47
-26 | [[Hal Abelson]] | 1947 | 76
-27 | [[Eric Schmidt]] | 1955 | 68
-30 | [[Claude Shannon]] | 1916 | 84
+| Day | Person                 | Year | Age |
+| :-: | ---------------------- | :--: | :-: |
+| 07  | [[Bob Metcalfe]]       | 1946 | 77  |
+| 14  | [[Yukihiro Matsumoto]] | 1965 | 58  |
+| 18  | [[Andrew Ng]]          | 1976 | 47  |
+| 26  | [[Hal Abelson]]        | 1947 | 76  |
+| 27  | [[Eric Schmidt]]       | 1955 | 68  |
+| 30  | [[Claude Shannon]]     | 1916 | 84  |
+
 ## May
 
-Day | Person | Year | Age
-:-:|---|:-:|:-:
-08 | [[John Resig]] | 1984 | 39
-11 | [[Edsger W. Dijkstra]] | 1930 | 72
-19 | [[James Gosling]] | 1955 | 68
-30 | [[Shafi Goldwasser]] | 1958 | 65
+| Day | Person                 | Year | Age |
+| :-: | ---------------------- | :--: | :-: |
+| 08  | [[John Resig]]         | 1984 | 39  |
+| 11  | [[Edsger W. Dijkstra]] | 1930 | 72  |
+| 19  | [[James Gosling]]      | 1955 | 68  |
+| 30  | [[Shafi Goldwasser]]   | 1958 | 65  |
+
 ## June
 
-Day | Person | Year | Age
-:-:|---|:-:|:-:
-01 | [[Donald Chamberlin]] | 1944 | 79
-08 | [[Tim Berners-Lee]] | 1955 | 68
-14 | [[Alonzo Church]] | 1903 | 92
-16 | [[John Tukey]] | 1915 | 85
-23 | [[Alan Turing]] | 1912 | 41
-23 | [[Vint Cerf]] | 1943 | 80
-27 | [[Jon Bentley]] | 1953 | 70
+| Day | Person                | Year | Age |
+| :-: | --------------------- | :--: | :-: |
+| 01  | [[Donald Chamberlin]] | 1944 | 79  |
+| 08  | [[Tim Berners-Lee]]   | 1955 | 68  |
+| 14  | [[Alonzo Church]]     | 1903 | 92  |
+| 16  | [[John Tukey]]        | 1915 | 85  |
+| 23  | [[Alan Turing]]       | 1912 | 41  |
+| 23  | [[Vint Cerf]]         | 1943 | 80  |
+| 27  | [[Jon Bentley]]       | 1953 | 70  |
 ## July
 
 Day | Person | Year | Age
@@ -75,12 +78,13 @@ Day | Person | Year | Age
 21 | [[Sergey Brin]] | 1973 | 50
 ## September
 
-Day | Person | Year | Age
-:-:|---|:-:|:-:
-04 | [[John McCarthy]] | 1927 | 84
-09 | [[Dennis Ritchie]] | 1941 | 82
-27 | [[Larry Wall]] | 1954 | 69
-28 | [[Seymour Cray]] | 1925 | 71
+| Day | Person             | Year | Age |
+| :-: | ------------------ | :--: | :-: |
+| 04  | [[John McCarthy]]  | 1927 | 84  |
+| 09  | [[Dennis Ritchie]] | 1941 | 82  |
+| 27  | [[Larry Wall]]     | 1954 | 69  |
+| 28  | [[Seymour Cray]]   | 1925 | 71  |
+
 ## October
 
 Day | Person | Year | Age
