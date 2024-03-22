@@ -10,7 +10,7 @@ slug: richard-hamming
 birthday: 1915-02-11
 deathday: 1998-01-07
 title: Mathematician, Computer Scientist
-organizations: [[Bell Labs]]
+organizations: [bell-labs]
 last_contact: 
 skills: [coding-theory, numerical-analysis, computer-science]
 interests: [problem-solving, communication-theory]

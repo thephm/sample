@@ -7,7 +7,7 @@ last_name: Resig
 slug: john-resig
 birthday: 1984-05-08
 title: Computer Scientist, Programmer
-organizations: [[Mozilla Corporation]]
+organizations: [mozilla]
 last_contact: 
 skills: [javascript, web-development]
 interests: [open-source, front-end-frameworks]

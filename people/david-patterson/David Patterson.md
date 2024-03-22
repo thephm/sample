@@ -7,7 +7,7 @@ last_name: Patterson
 slug: david-patterson
 birthday: 1947-11-16
 title: Computer Scientist, Professor
-organizations: [[University of California, Berkeley]]
+organizations: [university-of-california, berkeley]
 last_contact: 
 skills: [computer-architecture, parallel-computing]
 interests: [machine-learning, hardware-design]

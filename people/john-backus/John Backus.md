@@ -9,7 +9,7 @@ slug: john-backus
 birthday: 1924-12-03
 deathday: 2007-03-17
 title: Computer Scientist, Mathematician
-organizations: [[IBM]]
+organizations: [ibm]
 last_contact: 
 skills: [programming, mathematics]
 interests: [functional-programming, language-design]

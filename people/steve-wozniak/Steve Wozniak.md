@@ -10,7 +10,7 @@ slug: steve-wozniak
 birthday: 1950-08-11
 deathday: 
 title: Co-founder, Apple Inc.
-organizations: [[apple]]
+organizations: [apple]
 last_contact: 
 skills: [engineering, entrepreneurship]
 interests: [technology, philanthropy]

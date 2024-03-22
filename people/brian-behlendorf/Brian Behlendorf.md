@@ -8,7 +8,7 @@ last_name: Behlendorf
 slug: brian-behlendorf
 birthday: 1973-03-30
 title: Open Source Advocate, Technologist
-organizations: [[Apache Software Foundation]]
+organizations: [apache-software-foundation]
 last_contact: 
 skills: [open-source-development, software-engineering]
 interests: [internet-governance, blockchain]

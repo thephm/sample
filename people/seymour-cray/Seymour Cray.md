@@ -8,7 +8,7 @@ slug: seymour-cray
 birthday: 1925-09-28
 deathday: 1996-10-05
 title: Computer Engineer
-organizations: [[Cray Research]]
+organizations: [cray-research]
 last_contact: 
 skills: [supercomputers, computer-architecture]
 interests: [computing technology, innovation]

@@ -8,7 +8,7 @@ last_name: Matsumoto
 slug: yukihiro-matsumoto
 birthday: 1965-04-14
 title: Chief Architect, Ruby Programming Language
-organizations: [[Ruby Association]]
+organizations: [ruby-association]
 last_contact: 
 skills: [programming, language design]
 interests: [Ruby, programming languages]

@@ -9,7 +9,7 @@ slug: douglas-engelbart
 birthday: 1925-01-30
 deathday: 2013-07-02
 title: Director, Augmentation Research Center
-organizations: [[SRI International]]
+organizations: [sri]
 last_contact: 
 skills: [human-computer-interaction, hypertext, computer-mouse]
 interests: [collaborative-computing, information-retrieval]

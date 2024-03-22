@@ -8,7 +8,7 @@ slug: bill-english
 birthday: 1929-01-27
 deathday: 2020-07-26
 title: Engineer
-organizations: [[SRI International]]
+organizations: [sri]
 last_contact: 
 skills: [engineering, computer-hardware]
 interests: [innovation, technology]

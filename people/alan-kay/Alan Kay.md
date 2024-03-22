@@ -8,7 +8,7 @@ last_name: Kay
 slug: alan-kay
 birthday: 1940-05-17
 title: Computer Scientist, Engineer
-organizations: [[Xerox PARC]], [[Apple Inc.]]
+organizations: [xerox, apple]
 last_contact: 
 skills: [programming, human-computer interaction]
 interests: [object-oriented-programming, educational-technology]

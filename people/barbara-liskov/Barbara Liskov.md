@@ -9,7 +9,7 @@ slug: barbara-liskov
 birthday: 1939-11-07
 deathday: 
 title: Institute Professor, MIT
-organizations: [[mit]]
+organizations: [mit]
 last_contact: 
 skills: [programming-languages, software-engineering]
 interests: [distributed-systems, data-abstraction]
