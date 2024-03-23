@@ -1,29 +1,13 @@
 ---
-tags:
-  - person
-  - software-designer
+tags: ['person', 'software-designer']
+slug: alan-cooper
 first_name: Alan
 last_name: Cooper
-aliases: 
-slug: alan-cooper
-birthday: 
-deathday: 
 title: Software Designer, Interaction Design Pioneer
-organizations: 
-last_contact: 
-skills: [interaction-design, user-experience-design]
-interests: [design-thinking, software-development-methodologies]
+last_contact: 2024-12-13
+skills: ['interaction-design', 'user-experience-design']
+interests: ['design-thinking', 'software-development-methodologies']
 url: https://en.wikipedia.org/wiki/Alan_Cooper
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Alan Cooper
@@ -61,3 +45,5 @@ country:
 ## Notes
 
 - Alan Cooper's contributions to interaction design have helped shape the way software is designed and experienced by users worldwide. He is a vocal advocate for user-centered design principles and continues to influence the industry through his writing and consulting work.
+
+# Test 4
