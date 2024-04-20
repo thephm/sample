@@ -1,29 +1,12 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: dan-bricklin
 first_name: Dan
 last_name: Bricklin
-aliases: 
-slug: dan-bricklin
-birthday: 
-deathday: 
 title: Computer Scientist, Entrepreneur
-organizations: 
-last_contact: 
-skills: [software development, entrepreneurship]
-interests: [spreadsheet-software, user-interface-design]
+skills: ['software development', 'entrepreneurship']
+interests: ['spreadsheet-software', 'user-interface-design']
 url: https://en.wikipedia.org/wiki/Dan_Bricklin
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Dan Bricklin
@@ -60,4 +43,8 @@ country:
 
 ## Notes
 
-- Dan Bricklin's work has had a profound impact on the field of software development, particularly in the area of productivity tools and user interface design.
+
+
+
+
+

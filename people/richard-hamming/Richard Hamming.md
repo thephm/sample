@@ -1,31 +1,17 @@
 ---
-tags:
-  - person
-  - mathematician
-  - computer-scientist
+tags: ['person', 'mathematician', 'computer-scientist']
+slug: richard-hamming
 first_name: Richard
 last_name: Hamming
-aliases: 
-slug: richard-hamming
 birthday: 1915-02-11
 deathday: 1998-01-07
 title: Mathematician, Computer Scientist
-organizations: [bell-labs]
-last_contact: 
-skills: [coding-theory, numerical-analysis, computer-science]
-interests: [problem-solving, communication-theory]
+organizations: ['bell-labs']
+skills: ['coding-theory', 'numerical-analysis', 'computer-science']
+interests: ['problem-solving', 'communication-theory']
 url: https://en.wikipedia.org/wiki/Richard_Hamming
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Chicago, Illinois
-city: 
-state: 
 country: United States
-
 ---
 
 # Richard Hamming
@@ -68,5 +54,8 @@ country: United States
 
 ## Notes
 
-- Hamming's contributions to coding theory and digital communication have had a lasting impact on computer science and telecommunications.
-- He was awarded the Turing Award in 1968 for his work on error-detecting and error-correcting codes.
+
+
+
+
+

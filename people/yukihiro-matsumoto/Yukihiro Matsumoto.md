@@ -1,29 +1,17 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - programmer
+tags: ['person', 'computer-scientist', 'programmer']
+slug: yukihiro-matsumoto
 first_name: Yukihiro
 last_name: Matsumoto
-slug: yukihiro-matsumoto
 birthday: 1965-04-14
 title: Chief Architect, Ruby Programming Language
-organizations: [ruby-association]
-last_contact: 
-skills: [programming, language design]
-interests: [Ruby, programming languages]
+organizations: ['ruby-association']
+skills: ['programming', 'language design']
+interests: ['Ruby', 'programming languages']
 url: https://en.wikipedia.org/wiki/Yukihiro_Matsumoto
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Osaka
 city: Tokyo
-state: 
 country: Japan
-
 ---
 
 # Yukihiro Matsumoto
@@ -62,4 +50,8 @@ country: Japan
 
 ## Notes
 
-- his work on Ruby has had a significant impact on the programming community, influencing many other languages and developers.
+
+
+
+
+

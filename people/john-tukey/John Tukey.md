@@ -1,26 +1,14 @@
 ---
-tags:
-  - person
-  - statistician
-  - mathematician
+tags: ['person', 'statistician', 'mathematician']
+slug: john-tukey
 first_name: John
 last_name: Tukey
-aliases: 
-slug: john-tukey
 birthday: 1915-06-16
 deathday: 2000-07-26
 title: Statistician
-organizations: 
-last_contact: 
-skills: [statistics, mathematics, data-analysis]
-interests: [exploratory-data-analysis, robust-statistics, computing]
+skills: ['statistics', 'mathematics', 'data-analysis']
+interests: ['exploratory-data-analysis', 'robust-statistics', 'computing']
 url: https://en.wikipedia.org/wiki/John_Tukey
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New Bedford
 city: Princeton
 state: New Jersey
@@ -67,5 +55,8 @@ country: United States
 
 ## Notes
 
-- John Tukey's work had a profound impact on the fields of statistics, mathematics, and computer science.
-- He was known for his innovative approach to data analysis and his ability to develop practical solutions to complex problems.
+
+
+
+
+

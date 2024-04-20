@@ -1,25 +1,13 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - software-engineer
+tags: ['person', 'computer-scientist', 'software-engineer']
+slug: david-cutler
 first_name: David
 last_name: Cutler
-aliases: 
-slug: david-cutler
 birthday: 1942-03-13
 title: Software Engineer
-organizations: 
-last_contact: 
-skills: [operating-systems, software-development, kernel-engineering]
-interests: [computer-architecture, system-design, performance-optimization]
+skills: ['operating-systems', 'software-development', 'kernel-engineering']
+interests: ['computer-architecture', 'system-design', 'performance-optimization']
 url: https://en.wikipedia.org/wiki/Dave_Cutler
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Lansing
 city: Seattle
 state: Washington
@@ -63,5 +51,8 @@ country: United States
 
 ## Notes
 
-- David Cutler's contributions to operating system design have had a significant impact on the technology industry.
-- He is renowned for his expertise in kernel engineering and his ability to create robust and efficient software systems.
+
+
+
+
+

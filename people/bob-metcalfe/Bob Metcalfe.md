@@ -1,25 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: bob-metcalfe
 first_name: Bob
 last_name: Metcalfe
 aliases: Metcalfe
-slug: bob-metcalfe
 birthday: 1946-04-07
-deathday: 
 title: Computer Scientist, Entrepreneur
-organizations: [xerox, 3com]
-last_contact: 
-skills: [networking, entrepreneurship]
-interests: [innovation, technology]
+organizations: ['xerox', '3com']
+skills: ['networking', 'entrepreneurship']
+interests: ['innovation', 'technology']
 url: https://en.wikipedia.org/wiki/Bob_Metcalfe
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Brooklyn
 city: Palo Alto
 state: California
@@ -66,5 +56,8 @@ country: United States
 
 ## Notes
 
-- Bob Metcalfe's work in computer networking has had a profound impact on the way people communicate and share information.
-- He is an advocate for innovation and entrepreneurship, and has been involved in various ventures throughout his career.
+
+
+
+
+

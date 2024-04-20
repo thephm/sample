@@ -1,27 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: guido-van-rossum
 first_name: Guido
 last_name: van Rossum
-aliases: [Guido]
-slug: guido-van-rossum
+aliases: ['Guido']
 birthday: 1956-01-31
 title: Python Creator
-organizations:
-  - google
-  - dropbox
-  - python-software-foundation
-last_contact: 
-skills: [programming, software-development, language-design]
-interests: [open-source, programming-languages, software-engineering]
+organizations: ['google', 'dropbox', 'python-software-foundation']
+skills: ['programming', 'software-development', 'language-design']
+interests: ['open-source', 'programming-languages', 'software-engineering']
 url: https://en.wikipedia.org/wiki/Guido_van_Rossum
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Haarlem
 city: Mountain View
 state: California
@@ -49,4 +37,8 @@ country: United States
 
 ## Notes
 
-- developed Python in the late 1980s and released the first version in 1991. Since then, Python has grown into a versatile and widely-used programming language, known for its simplicity and readability.
+
+
+
+
+

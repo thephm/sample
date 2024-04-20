@@ -1,27 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - entrepreneur
+tags: ['person', 'computer-scientist', 'entrepreneur']
+slug: sergey-brin
 first_name: Sergey
 last_name: Brin
-aliases: 
-slug: sergey-brin
 birthday: 1973-08-21
-deathday: 
 title: Co-founder, Google
-organizations:
-  - google
-last_contact: 
-skills: [computer-science, entrepreneurship]
-interests: [technology, innovation, philanthropy]
+organizations: ['google']
+skills: ['computer-science', 'entrepreneurship']
+interests: ['technology', 'innovation', 'philanthropy']
 url: https://en.wikipedia.org/wiki/Sergey_Brin
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Moscow
 city: Los Altos
 state: California
@@ -62,6 +49,8 @@ country: United States
 
 ## Notes
 
-- Sergey Brin's innovative ideas and entrepreneurial spirit have been crucial to Google's success as a leading technology company.
-- He is known for his visionary approach to technology and his commitment to using technology to improve people's lives and solve important global challenges.
-- Brin is also actively involved in philanthropy, supporting various initiatives aimed at promoting education, healthcare, and scientific research.
+
+
+
+
+

@@ -1,28 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - engineer
+tags: ['person', 'computer-scientist', 'engineer']
+slug: butler-lampson
 first_name: Butler
 last_name: Lampson
-aliases: 
-slug: butler-lampson
 birthday: 1943-12-23
 title: Computer Scientist, Engineer
-organizations: 
-last_contact: 
-skills: [distributed-systems, security, programming-languages]
-interests: [computer-networks, cryptography, software-engineering]
+skills: ['distributed-systems', 'security', 'programming-languages']
+interests: ['computer-networks', 'cryptography', 'software-engineering']
 url: https://en.wikipedia.org/wiki/Butler_Lampson
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Washington, D.C.
-city: 
-state: 
 country: United States
 ---
 
@@ -63,5 +49,8 @@ country: United States
 
 ## Notes
 
-- Butler Lampson's research has had a profound impact on the fields of computer science and engineering.
-- He is highly regarded for his deep technical expertise and innovative problem-solving abilities.
+
+
+
+
+

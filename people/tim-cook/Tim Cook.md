@@ -1,24 +1,14 @@
 ---
-tags:
-  - person
-  - business-executive
+tags: ['person', 'business-executive']
+slug: tim-cook
 first_name: Tim
 last_name: Cook
-slug: tim-cook
 birthday: 1960-11-01
 title: CEO, Apple Inc.
-organizations:
-  - apple
-last_contact: 
-skills: [business-management, operations]
-interests: [technology, social-responsibility]
+organizations: ['apple']
+skills: ['business-management', 'operations']
+interests: ['technology', 'social-responsibility']
 url: https://en.wikipedia.org/wiki/Tim_Cook
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Mobile
 city: Mobile
 state: Alabama
@@ -67,5 +57,8 @@ Oversaw the launch of numerous iconic Apple products
 
 ## Notes
 
-- Tim Cook has been instrumental in Apple's efforts to expand its product lineup and diversify its revenue streams beyond hardware into services and subscriptions.
-- He is known for his commitment to sustainability and social responsibility, advocating for environmental initiatives and ethical supply chain practices at Apple.
+
+
+
+
+

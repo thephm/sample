@@ -1,29 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - open-source
+tags: ['person', 'computer-scientist', 'open-source']
+slug: brian-behlendorf
 first_name: Brian
 last_name: Behlendorf
-slug: brian-behlendorf
 birthday: 1973-03-30
 title: Open Source Advocate, Technologist
-organizations: [apache-software-foundation]
-last_contact: 
-skills: [open-source-development, software-engineering]
-interests: [internet-governance, blockchain]
+organizations: ['apache-software-foundation']
+skills: ['open-source-development', 'software-engineering']
+interests: ['internet-governance', 'blockchain']
 url: https://en.wikipedia.org/wiki/Brian_Behlendorf
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
-
 ---
 
 # Brian Behlendorf
@@ -62,4 +47,8 @@ country:
 
 ## Notes
 
-- his work in open source has had a profound impact on the technology industry, fostering collaboration and innovation across the globe.
+
+
+
+
+

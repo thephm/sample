@@ -1,27 +1,16 @@
 ---
-tags:
-  - person
-  - entrepreneur
-  - innovator
+tags: ['person', 'entrepreneur', 'innovator']
+slug: steve-jobs
 first_name: Steve
 last_name: Jobs
 aliases: Jobs
-slug: steve-jobs
 birthday: 1955-02-24
 deathday: 2011-10-05
 title: Co-founder, Apple Inc.
-organizations:
-  - apple-inc
-last_contact: 
-skills: [entrepreneurship, product-design, leadership]
-interests: [technology, design, innovation]
+organizations: ['apple-inc']
+skills: ['entrepreneurship', 'product-design', 'leadership']
+interests: ['technology', 'design', 'innovation']
 url: https://en.wikipedia.org/wiki/Steve_Jobs
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: San Francisco
 city: Palo Alto
 state: California
@@ -71,6 +60,8 @@ country: United States
 
 ## Notes
 
-- Steve Jobs was known for his uncompromising commitment to design, simplicity, and user experience, which became hallmarks of Apple's products.
-- He was a visionary leader who transformed multiple industries, including personal computing, music, telecommunications, and entertainment.
-- Jobs' innovative approach to product design and marketing continues to influence companies and entrepreneurs worldwide.
+
+
+
+
+

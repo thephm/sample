@@ -1,25 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - educator
+tags: ['person', 'computer-scientist', 'educator']
+slug: barbara-liskov
 first_name: Barbara
 last_name: Liskov
-slug: barbara-liskov
 birthday: 1939-11-07
-deathday: 
 title: Institute Professor, MIT
-organizations: [mit]
-last_contact: 
-skills: [programming-languages, software-engineering]
-interests: [distributed-systems, data-abstraction]
+organizations: ['mit']
+skills: ['programming-languages', 'software-engineering']
+interests: ['distributed-systems', 'data-abstraction']
 url: https://en.wikipedia.org/wiki/Barbara_Liskov
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Los Angeles
 city: Cambridge
 state: Massachusetts
@@ -63,5 +52,8 @@ country: United States
 
 ## Notes
 
-- Barbara Liskov's research has had a profound impact on the field of computer science, particularly in the areas of programming languages, software design, and distributed systems.
-- She continues to be actively involved in teaching and research at MIT, mentoring students and contributing to advancements in computer science education and practice.
+
+
+
+
+

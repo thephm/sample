@@ -1,30 +1,18 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - programmer
+tags: ['person', 'computer-scientist', 'programmer']
+slug: larry-wall
 first_name: Larry
 last_name: Wall
-slug: larry-wall
 birthday: 1954-09-27
 title: Computer Scientist, Programmer
-organizations:
-  - perl-foundation
-last_contact: 
-skills: [programming, linguistics]
-interests: [Perl, language-design]
+organizations: ['perl-foundation']
+skills: ['programming', 'linguistics']
+interests: ['Perl', 'language-design']
 url: https://en.wikipedia.org/wiki/Larry_Wall
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Los Angeles
 city: Mountain View
 state: California
 country: United States
-
 ---
 
 # Larry Wall
@@ -63,4 +51,8 @@ country: United States
 
 ## Notes
 
-- his work on Perl has had a significant impact on the programming community, influencing many other languages and developers.
+
+
+
+
+

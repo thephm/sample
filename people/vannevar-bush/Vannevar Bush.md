@@ -1,29 +1,11 @@
 ---
-tags:
-  - person
+tags: ['person']
+slug: vannevar-bush
 first_name: Vannevar
 last_name: Bush
-aliases: 
-slug: vannevar-bush
 birthday: 1890-03-11
 deathday: 1974-06-28
 title: Engineer, Inventor, Science Administrator
-organizations: 
-last_contact: 
-skills: 
-interests: 
-url: 
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country:
-zip:
 ---
 
 # Vannevar Bush
@@ -61,4 +43,8 @@ zip:
 
 ## Notes
 
-- 
+
+
+
+
+

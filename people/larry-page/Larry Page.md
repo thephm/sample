@@ -1,27 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - entrepreneur
+tags: ['person', 'computer-scientist', 'entrepreneur']
+slug: larry-page
 first_name: Larry
 last_name: Page
-aliases: 
-slug: larry-page
 birthday: 1973-03-26
-deathday: 
 title: Co-founder, Google
-organizations:
-  - google
-last_contact: 
-skills: [computer-science, entrepreneurship]
-interests: [technology, sustainability, innovation]
+organizations: ['google']
+skills: ['computer-science', 'entrepreneurship']
+interests: ['technology', 'sustainability', 'innovation']
 url: https://en.wikipedia.org/wiki/Larry_Page
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: East Lansing
 city: Palo Alto
 state: California
@@ -63,6 +50,8 @@ country: United States
 
 ## Notes
 
-- Larry Page's vision and leadership have been instrumental in Google's success as a global technology powerhouse.
-- He is known for his ambitious approach to innovation and his commitment to using technology to solve complex problems and improve people's lives.
-- Page is also a passionate advocate for environmental sustainability and has invested in numerous projects aimed at addressing climate change and promoting renewable energy.
+
+
+
+
+

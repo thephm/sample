@@ -1,32 +1,17 @@
 ---
-tags:
-  - person
-  - mathematician
-  - computer-scientist
+tags: ['person', 'mathematician', 'computer-scientist']
+slug: charles-babbage
 first_name: Charles
 last_name: Babbage
-aliases: [Charles Babbage]
-slug: charles-babbage
+aliases: ['Charles Babbage']
 birthday: 1791-12-26
 deathday: 1871-10-18
 title: Mathematician, Philosopher, Inventor, Engineer
-organizations:
-  - university-of-cambridge
-  - royal-astronomical-society
+organizations: ['university-of-cambridge', 'royal-astronomical-society']
 last_contact: 1871-12-26
-skills:
-  - mathematics
-  - mechanical-engineering
-interests:
-  - computing-machines
-  - automation
+skills: ['mathematics', 'mechanical-engineering']
+interests: ['computing-machines', 'automation']
 url: https://en.wikipedia.org/wiki/Charles_Babbage
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: London
 city: London
 state: England
@@ -73,5 +58,8 @@ country: United Kingdom
 
 ## Notes
 
-- Charles Babbage's designs for the Difference Engine and the Analytical Engine laid the foundation for modern computers and earned him the nickname "father of the computer."
-- Despite his visionary ideas, Babbage's machines were never fully completed during his lifetime due to technological limitations and funding issues.
+
+
+
+
+

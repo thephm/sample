@@ -1,30 +1,19 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - mathematician
+tags: ['person', 'computer-scientist', 'mathematician']
+slug: john-backus
 first_name: John
 last_name: Backus
-slug: john-backus
 birthday: 1924-12-03
 deathday: 2007-03-17
 title: Computer Scientist, Mathematician
-organizations: [ibm]
-last_contact: 
-skills: [programming, mathematics]
-interests: [functional-programming, language-design]
+organizations: ['ibm']
+skills: ['programming', 'mathematics']
+interests: ['functional-programming', 'language-design']
 url: https://en.wikipedia.org/wiki/John_Backus
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Philadelphia
 city: Ashland
 state: Kentucky
 country: United States
-
 ---
 
 # John Backus
@@ -65,4 +54,8 @@ country: United States
 
 ## Notes
 
-- his work on Fortran had a profound impact on computer science, making high-level programming accessible to a wider audience and paving the way for modern programming languages.
+
+
+
+
+

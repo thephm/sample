@@ -1,35 +1,15 @@
 ---
-tags:
-  - person
-  - programmer
-  - entrepreneur
+tags: ['person', 'programmer', 'entrepreneur']
+slug: david-heinemeier-hansson
 first_name: David
 last_name: Heinemeier Hansson
-aliases:
-  - DHH
-  - David Heinemeier Hansson
-slug: david-heinemeier-hansson
+aliases: ['DHH', 'David Heinemeier Hansson']
 birthday: 1979-10-15
 title: Programmer, Entrepreneur
-organizations:
-  - basecamp
-  - ruby-on-rails
-last_contact: 
-skills:
-  - programming
-  - entrepreneurship
-  - public-speaking
-interests:
-  - software-development
-  - remote-work
-  - productivity
+organizations: ['basecamp', 'ruby-on-rails']
+skills: ['programming', 'entrepreneurship', 'public-speaking']
+interests: ['software-development', 'remote-work', 'productivity']
 url: https://en.wikipedia.org/wiki/David_Heinemeier_Hansson
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Copenhagen
 city: Chicago
 state: Illinois
@@ -75,5 +55,8 @@ country: United States
 
 ## Notes
 
-- David Heinemeier Hansson's contributions to the software industry have had a significant impact, particularly in the realm of web development and remote work culture.
-- He is known for his outspoken views on entrepreneurship, work-life balance, and the future of work.
+
+
+
+
+

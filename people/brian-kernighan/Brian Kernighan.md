@@ -1,31 +1,19 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - author
+tags: ['person', 'computer-scientist', 'author']
+slug: brian-kernighan
 first_name: Brian
 last_name: Kernighan
-aliases: [Brian Wilson Kernighan]
-slug: brian-kernighan
+aliases: ['Brian Wilson Kernighan']
 birthday: 1942-01-01
-deathday:
 title: Professor
-organizations: [bell-labs, princeton-university]
-last_contact: 
-skills: [programming, writing]
-interests: [software-development, computer-science-education]
+organizations: ['bell-labs', 'princeton-university']
+skills: ['programming', 'writing']
+interests: ['software-development', 'computer-science-education']
 url: https://en.wikipedia.org/wiki/Brian_Kernighan
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Toronto
 city: Princeton
 state: New Jersey
 country: United States
-
 ---
 
 # Brian Kernighan
@@ -67,4 +55,8 @@ country: United States
 
 ## Notes
 
-- his books and contributions have had a profound impact on the field of computer science and programming, influencing generations of programmers worldwide.
+
+
+
+
+

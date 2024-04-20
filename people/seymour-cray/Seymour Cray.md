@@ -1,29 +1,18 @@
 ---
-tags:
-  - person
-  - computer-engineer
+tags: ['person', 'computer-engineer']
+slug: seymour-cray
 first_name: Seymour
 last_name: Cray
-slug: seymour-cray
 birthday: 1925-09-28
 deathday: 1996-10-05
 title: Computer Engineer
-organizations: [cray-research]
-last_contact: 
-skills: [supercomputers, computer-architecture]
-interests: [computing technology, innovation]
+organizations: ['cray-research']
+skills: ['supercomputers', 'computer-architecture']
+interests: ['computing technology', 'innovation']
 url: https://en.wikipedia.org/wiki/Seymour_Cray
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Chippewa Falls
 city: Chippewa Falls
-province: Wisconsin
 country: United States
-
 ---
 
 # Seymour Cray
@@ -66,4 +55,8 @@ country: United States
 
 ## Notes
 
-- his contributions to supercomputing revolutionized the field and paved the way for advances in scientific research, engineering, and technology.
+
+
+
+
+

@@ -1,31 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - inventor
+tags: ['person', 'computer-scientist', 'inventor']
+slug: tim-berners-lee
 first_name: Tim
 last_name: Berners-Lee
-slug: tim-berners-lee
 birthday: 1955-06-08
 title: Computer Scientist, Inventor
-organizations:
-  - cern
-  - w3c
-last_contact: 
-skills:
-  - computer-science
-interests:
-  - world-wide-web
+organizations: ['cern', 'w3c']
+skills: ['computer-science']
+interests: ['world-wide-web']
 url: https://en.wikipedia.org/wiki/Tim_Berners-Lee
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: London
 city: London
-state: 
 country: United Kingdom
 ---
 
@@ -75,5 +60,8 @@ country: United Kingdom
 
 ## Notes
 
-- Tim Berners-Lee's invention of the World Wide Web revolutionized the way information is shared and accessed globally, leading to profound changes in society, communication, and commerce.
-- He is a strong advocate for an open and decentralized web, promoting principles of net neutrality, privacy, and accessibility.
+
+
+
+
+

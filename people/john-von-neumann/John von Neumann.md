@@ -1,27 +1,16 @@
 ---
-tags:
-  - person
-  - mathematician
-  - physicist
-  - computer-scientist
+tags: ['person', 'mathematician', 'physicist', 'computer-scientist']
+slug: john-von-neumann
 first_name: John
 last_name: von Neumann
 aliases: János Neumann
-slug: john-von-neumann
 birthday: 1903-12-28
 deathday: 1957-02-08
 title: Mathematician, Physicist, Computer Scientist
 organizations: princeton-university, institute-for-advanced-study, los-alamos-national-laboratory
-last_contact: 
-skills: [mathematics, physics, computer-science]
-interests: [game-theory, quantum-mechanics, numerical-analysis]
+skills: ['mathematics', 'physics', 'computer-science']
+interests: ['game-theory', 'quantum-mechanics', 'numerical-analysis']
 url: https://en.wikipedia.org/wiki/John_von_Neumann
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Budapest
 city: Princeton
 state: New Jersey
@@ -71,5 +60,8 @@ country: United States
 
 ## Notes
 
-- Von Neumann's work laid the foundation for many fields of modern science and technology, including game theory, quantum computing, and numerical analysis.
-- He was known for his exceptional intellect and his ability to make significant contributions across multiple disciplines.
+
+
+
+
+

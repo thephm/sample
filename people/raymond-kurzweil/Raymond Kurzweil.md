@@ -1,26 +1,15 @@
 ---
-tags:
-  - person
-  - futurist
-  - inventor
+tags: ['person', 'futurist', 'inventor']
+slug: raymond-kurzweil
 first_name: Raymond
 last_name: Kurzweil
 aliases: Ray
-slug: raymond-kurzweil
 birthday: 1948-02-12
-deathday: 
 title: Futurist, Inventor, Author
-organizations: [kurzweil-technologies]
-last_contact: 
-skills: [artificial-intelligence, machine-learning, futurology]
-interests: [technological-singularity, life-extension, transhumanism]
+organizations: ['kurzweil-technologies']
+skills: ['artificial-intelligence', 'machine-learning', 'futurology']
+interests: ['technological-singularity', 'life-extension', 'transhumanism']
 url: https://en.wikipedia.org/wiki/Ray_Kurzweil
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Queens
 city: Boston
 state: Massachusetts
@@ -65,5 +54,8 @@ country: United States
 
 ## Notes
 
-- his predictions about the future of technology and humanity have sparked both fascination and controversy. While some view his ideas as visionary, others criticize them as overly optimistic or unrealistic.
-- He continues to be a highly influential figure in the fields of artificial intelligence, futurology, and transhumanism, advocating for the responsible and ethical development of technology for the betterment of society.
+
+
+
+
+

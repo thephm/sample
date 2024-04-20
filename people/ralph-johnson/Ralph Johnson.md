@@ -1,29 +1,12 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: ralph-johnson
 first_name: Ralph
 last_name: Johnson
-aliases: 
-slug: ralph-johnson
-birthday: 
-deathday: 
 title: Computer Scientist
-organizations: 
-last_contact: 
-skills: [software-engineering, design-patterns]
-interests: [object-oriented-programming, software-architecture]
+skills: ['software-engineering', 'design-patterns']
+interests: ['object-oriented-programming', 'software-architecture']
 url: https://en.wikipedia.org/wiki/Ralph_Johnson_(computer_scientist)
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Ralph Johnson
@@ -60,4 +43,8 @@ country:
 
 ## Notes
 
-- his work has had a significant impact on software engineering practices, particularly in the area of design patterns and object-oriented programming.
+
+
+
+
+

@@ -1,31 +1,18 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: scott-fahlman
 first_name: Scott
 last_name: Fahlman
-aliases: 
-slug: scott-fahlman
 birthday: 1948-03-21
-deathday: 
 title: Computer Scientist, Educator
-organizations:
-  - carnegie-mellon-university
-last_contact: 
-skills: [artificial-intelligence, computer-programming]
-interests: [cognitive-science, humor]
+organizations: ['carnegie-mellon-university']
+skills: ['artificial-intelligence', 'computer-programming']
+interests: ['cognitive-science', 'humor']
 url: https://en.wikipedia.org/wiki/Scott_Fahlman
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Medina, Ohio
 city: Pittsburgh
 state: Pennsylvania
 country: United States
-
 ---
 
 # Scott Fahlman
@@ -63,5 +50,8 @@ country: United States
 
 ## Notes
 
-- Scott Fahlman's work in artificial intelligence and knowledge representation has influenced the development of intelligent systems and technologies.
-- He is also known for his sense of humor and the popularization of emoticons in online communication.
+
+
+
+
+

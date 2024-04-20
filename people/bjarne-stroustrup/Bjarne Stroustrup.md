@@ -1,29 +1,17 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - programmer
+tags: ['person', 'computer-scientist', 'programmer']
+slug: bjarne-stroustrup
 first_name: Bjarne
 last_name: Stroustrup
 aliases: Stroustrup
-slug: bjarne-stroustrup
 birthday: 1950-12-30
-deathday: 
 title: Computer Scientist, Creator of C++
-organizations: [murray-hill-research-center, texas-am-university, morgan-stanley, at-t-bell-labs]
-last_contact: 
-skills: [programming, software-engineering, object-oriented-design]
-interests: [programming-languages, software-development-methodologies]
+organizations: ['murray-hill-research-center', 'texas-am-university', 'morgan-stanley', 'at-t-bell-labs']
+skills: ['programming', 'software-engineering', 'object-oriented-design']
+interests: ['programming-languages', 'software-development-methodologies']
 url: https://en.wikipedia.org/wiki/Bjarne_Stroustrup
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Aarhus
 city: Aarhus
-state: 
 country: Denmark
 ---
 
@@ -68,5 +56,8 @@ country: Denmark
 
 ## Notes
 
-- Stroustrup's creation of C++ has had a profound impact on software development, enabling programmers to write more efficient, maintainable, and scalable code.
-- He continues to be actively involved in the development and promotion of C++, advocating for modern features and best practices in software engineering.
+
+
+
+
+

@@ -1,31 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - internet-pioneer
+tags: ['person', 'computer-scientist', 'internet-pioneer']
+slug: vint-cerf
 first_name: Vint
 last_name: Cerf
 aliases: Vint
-slug: vint-cerf
 birthday: 1943-06-23
-deathday: 
 title: Vice President and Chief Internet Evangelist, Google
-organizations:
-  - google
-  - darpa
-  - ietf
-  - arin
-  - icann
+organizations: ['google', 'darpa', 'ietf', 'arin', 'icann']
 last_contact: 1983-03-29
-skills: [networking, protocol design]
-interests: [internet-governance, digital-rights]
+skills: ['networking', 'protocol design']
+interests: ['internet-governance', 'digital-rights']
 url: https://en.wikipedia.org/wiki/Vint_Cerf
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New Haven, Connecticut
 city: Los Angeles
 state: California
@@ -74,6 +59,8 @@ country: United States
 
 ## Notes
 
-- Vint Cerf's work has played a crucial role in shaping the architecture and governance of the Internet.
-- He is a strong advocate for an open and accessible Internet, emphasizing the importance of digital inclusion and innovation.
-- Cerf has received numerous awards and honors for his contributions to technology and society, including the Turing Award and the Presidential Medal of Freedom.
+
+
+
+
+

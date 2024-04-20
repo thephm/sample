@@ -1,24 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - engineer
+tags: ['person', 'computer-scientist', 'engineer']
+slug: alan-kay
 first_name: Alan
 last_name: Kay
-slug: alan-kay
 birthday: 1940-05-17
 title: Computer Scientist, Engineer
-organizations: [xerox, apple]
-last_contact: 
-skills: [programming, human-computer interaction]
-interests: [object-oriented-programming, educational-technology]
+organizations: ['xerox', 'apple']
+skills: ['programming', 'human-computer interaction']
+interests: ['object-oriented-programming', 'educational-technology']
 url: https://en.wikipedia.org/wiki/Alan_Kay
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Springfield
 city: Springfield
 state: Massachusetts
@@ -64,5 +54,8 @@ country: United States
 
 ## Notes
 
-- his visionary ideas have had a profound influence on the development of personal computing and educational technology.
-- He continues to be an influential figure in the fields of computer science and human-computer interaction, advocating for user-centric design and innovative educational approaches.
+
+
+
+
+

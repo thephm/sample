@@ -1,32 +1,16 @@
 ---
-tags:
-  - person
-  - software-engineer
-  - game-developer
+tags: ['person', 'software-engineer', 'game-developer']
+slug: john-carmack
 first_name: John
 last_name: Carmack
-aliases: 
-slug: john-carmack
 birthday: 1970-08-20
 title: Software Engineer, Game Developer
-organizations: 
-  - id-software
-  - oculus
-last_contact: 
-skills: [game-development, programming, virtual-reality]
-interests: [space-exploration, artificial-intelligence]
+organizations: ['id-software', 'oculus']
+skills: ['game-development', 'programming', 'virtual-reality']
+interests: ['space-exploration', 'artificial-intelligence']
 url: https://en.wikipedia.org/wiki/John_Carmack
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Roeland Park, Kansas
-city: 
-state: 
 country: United States
-
 ---
 
 # John Carmack
@@ -70,5 +54,8 @@ country: United States
 
 ## Notes
 
-- Carmack's technical expertise and innovative approach to game development have had a profound impact on the video game industry.
-- His work continues to inspire developers and shape the future of interactive entertainment.
+
+
+
+
+

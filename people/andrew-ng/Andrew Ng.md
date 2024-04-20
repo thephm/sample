@@ -1,27 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - entrepreneur
+tags: ['person', 'computer-scientist', 'entrepreneur']
+slug: andrew-ng
 first_name: Andrew
 last_name: Ng
-slug: andrew-ng
 birthday: 1976-04-18
 title: Founder and CEO, Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University
-organizations:
-  - landing-ai
-  - coursera
-  - stanford-university
+organizations: ['landing-ai', 'coursera', 'stanford-university']
 last_contact: 2022-03-01
-skills: [machine-learning, deep-learning, artificial-intelligence]
-interests: [education, robotics]
+skills: ['machine-learning', 'deep-learning', 'artificial-intelligence']
+interests: ['education', 'robotics']
 url: https://en.wikipedia.org/wiki/Andrew_Ng
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: London
 city: San Francisco
 state: California
@@ -58,4 +46,8 @@ country: United States
 
 ## Notes
 
-- his online courses on machine learning and deep learning have educated millions of learners worldwide and have had a significant impact on democratizing education.
+
+
+
+
+

@@ -1,29 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: dennis-ritchie
 first_name: Dennis
 last_name: Ritchie
-aliases:
-  - dmr
-slug: dennis-ritchie
+aliases: ['dmr']
 birthday: 1941-09-09
 title: Computer Scientist
-organizations:
-  - bell-labs
+organizations: ['bell-labs']
 last_contact: 2011-10-12
-skills:
-  - programming
-interests:
-  - operating-systems
-  - programming-languages
+skills: ['programming']
+interests: ['operating-systems', 'programming-languages']
 url: https://en.wikipedia.org/wiki/Dennis_Ritchie
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Bronxville
 city: Berkeley Heights
 state: New Jersey
@@ -73,5 +60,8 @@ country: United States
 
 ## Notes
 
-- Dennis Ritchie's contributions to computer science, particularly his work on the C programming language and the Unix operating system, have had a lasting impact on the field.
-- He was awarded the Turing Award in 1983, jointly with Ken Thompson, for their development of generic operating systems theory and specifically for the implementation of the Unix operating system.
+
+
+
+
+

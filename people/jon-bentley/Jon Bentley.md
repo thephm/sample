@@ -1,29 +1,13 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: jon-bentley
 first_name: Jon
 last_name: Bentley
-aliases: 
-slug: jon-bentley
 birthday: 1953-06-27
-deathday: 
 title: Computer Scientist, Author
-organizations: 
-last_contact: 
-skills: [algorithm, data-structure]
-interests: [computational geometry, softwaree-ngineering]
+skills: ['algorithm', 'data-structure']
+interests: ['computational geometry', 'softwaree-ngineering']
 url: https://en.wikipedia.org/wiki/Jon_Bentley
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Jon Bentley
@@ -62,4 +46,8 @@ country:
 
 ## Notes
 
-- Jon Bentley's books and articles have had a significant impact on the field of computer science, particularly in the areas of algorithm design and software engineering.
+
+
+
+
+

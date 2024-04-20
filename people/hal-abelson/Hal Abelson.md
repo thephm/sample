@@ -1,25 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: hal-abelson
 first_name: Hal
 last_name: Abelson
-aliases: []
-slug: hal-abelson
 birthday: 1947-04-26
-deathday: 
 title: Computer Scientist, Educator
-organizations: [mit]
-last_contact: 
-skills: [programming-languages, computer-science-education]
-interests: [computational-thinking, open-access]
+organizations: ['mit']
+skills: ['programming-languages', 'computer-science-education']
+interests: ['computational-thinking', 'open-access']
 url: https://en.wikipedia.org/wiki/Hal_Abelson
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Philadelphia
 city: Cambridge
 state: Massachusetts
@@ -46,4 +35,8 @@ country: United States
 
 ## Notes
 
-- a strong advocate for open access to knowledge and has been involved in various initiatives to promote open access publishing and education.
+
+
+
+
+

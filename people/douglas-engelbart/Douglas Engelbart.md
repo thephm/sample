@@ -1,25 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - inventor
+tags: ['person', 'computer-scientist', 'inventor']
+slug: douglas-engelbart
 first_name: Douglas
 last_name: Engelbart
-slug: douglas-engelbart
 birthday: 1925-01-30
 deathday: 2013-07-02
 title: Director, Augmentation Research Center
-organizations: [sri]
-last_contact: 
-skills: [human-computer-interaction, hypertext, computer-mouse]
-interests: [collaborative-computing, information-retrieval]
+organizations: ['sri']
+skills: ['human-computer-interaction', 'hypertext', 'computer-mouse']
+interests: ['collaborative-computing', 'information-retrieval']
 url: https://en.wikipedia.org/wiki/Douglas_Engelbart
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Portland
 city: Atherton
 state: California
@@ -65,5 +55,8 @@ country: United States
 
 ## Notes
 
-- Douglas Engelbart's "Mother of All Demos" in 1968 showcased a range of technologies, including the mouse, hypertext, video conferencing, and collaborative editing, that laid the foundation for modern personal computing and the internet.
-- His vision of computers augmenting human intelligence and enabling collaborative problem-solving continues to inspire researchers and innovators in the field of human-computer interaction.
+
+
+
+
+

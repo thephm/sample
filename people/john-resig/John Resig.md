@@ -1,28 +1,18 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: john-resig
 first_name: John
 last_name: Resig
-slug: john-resig
 birthday: 1984-05-08
 title: Computer Scientist, Programmer
-organizations: [mozilla]
-last_contact: 
-skills: [javascript, web-development]
-interests: [open-source, front-end-frameworks]
+organizations: ['mozilla']
+skills: ['javascript', 'web-development']
+interests: ['open-source', 'front-end-frameworks']
 url: https://en.wikipedia.org/wiki/John_Resig
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Boston
 city: San Francisco
 state: California
 country: United States
-
 ---
 
 # John Resig
@@ -61,4 +51,8 @@ country: United States
 
 ## Notes
 
-- his work on jQuery has had a profound impact on web development, making it easier for developers to create dynamic and interactive web applications.
+
+
+
+
+

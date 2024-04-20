@@ -1,28 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: andrew-tanenbaum
 first_name: Andrew
 last_name: Tanenbaum
-aliases: 
-slug: andrew-tanenbaum
 birthday: 1944-03-16
-deathday: 
 title: Computer Scientist, Professor
-organizations: [vrije-universiteit-amsterdam]
-last_contact: 
-skills: [operating-systems, computer-networks]
-interests: [distributed-systems, computer-architecture]
+organizations: ['vrije-universiteit-amsterdam']
+skills: ['operating-systems', 'computer-networks']
+interests: ['distributed-systems', 'computer-architecture']
 url: https://en.wikipedia.org/wiki/Andrew_Tanenbaum
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New York City
 city: Amsterdam
-state: 
 country: Netherlands
 ---
 
@@ -65,5 +53,8 @@ country: Netherlands
 
 ## Notes
 
-- Tanenbaum's contributions to the field of computer science have had a significant impact on both academia and industry.
-- He is known for his clear and concise writing style, which has made complex technical concepts accessible to students and professionals alike.
+
+
+
+
+

@@ -1,26 +1,13 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - programmer
+tags: ['person', 'computer-scientist', 'programmer']
+slug: james-gosling
 first_name: James
 last_name: Gosling
-aliases: 
-slug: james-gosling
 birthday: 1955-05-19
-deathday: 
 title: Computer Scientist, Programmer
-organizations: 
-last_contact: 
-skills: [programming, software engineering, Java]
-interests: [technology innovation, robotics, sailing]
+skills: ['programming', 'software engineering', 'Java']
+interests: ['technology innovation', 'robotics', 'sailing']
 url: https://en.wikipedia.org/wiki/James_Gosling
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Calgary
 city: Calgary
 state: Alberta
@@ -67,4 +54,8 @@ country: Canada
 
 ## Notes
 
-- James Gosling's creation of the Java programming language has had a profound impact on the software development industry, enabling cross-platform compatibility and the development of countless applications and systems.
+
+
+
+
+

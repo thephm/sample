@@ -1,30 +1,12 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - mathematician
+tags: ['person', 'computer-scientist', 'mathematician']
+slug: jack-dongarra
 first_name: Jack
 last_name: Dongarra
-aliases: 
-slug: jack-dongarra
-birthday: 
-deathday: 
 title: Computer Scientist, Mathematician
-organizations: 
-last_contact: 
-skills: [numerical-algorithms, high-performance-computing]
-interests: [parallel-computing, scientific-computing]
+skills: ['numerical-algorithms', 'high-performance-computing']
+interests: ['parallel-computing', 'scientific-computing']
 url: https://en.wikipedia.org/wiki/Jack_Dongarra
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Jack Dongarra
@@ -61,4 +43,8 @@ country:
 
 ## Notes
 
-- Jack Dongarra's work has had a significant impact on the field of scientific computing, particularly in the areas of numerical algorithms and parallel computing. He continues to be actively involved in research and collaboration efforts aimed at advancing the state-of-the-art in high-performance computing.
+
+
+
+
+

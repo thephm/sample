@@ -1,27 +1,18 @@
 ---
-tags:
-  - person
+tags: ['person']
+slug: alan-turing
 first_name: Alan
 last_name: Turing
-aliases: [Alan Turing, Alan Mathison Turing]
-slug: alan-turing
+aliases: ['Alan Turing', 'Alan Mathison Turing']
 birthday: 1912-06-23
 deathday: 1954-06-07
 title: Mathematician, Computer Scientist
-organizations: [bletchley-park, university-of-manchester]
-last-contact: 
-skills: [cryptanalysis, mathematics, computer-science]
-interests: [artificial-intelligence, logic, philosophy]
+organizations: ['bletchley-park', 'university-of-manchester']
+skills: ['cryptanalysis', 'mathematics', 'computer-science']
+interests: ['artificial-intelligence', 'logic', 'philosophy']
 url: https://en.wikipedia.org/wiki/Alan_Turing
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: London, England
 city: London
-state: 
 country: United Kingdom
 ---
 
@@ -69,5 +60,8 @@ country: United Kingdom
 
 ## Notes
 
-- Turing Award named after Alan Turing
+
+
+
+
 

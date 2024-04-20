@@ -1,28 +1,14 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: ken-thompson
 first_name: Ken
 last_name: Thompson
-slug: ken-thompson
 birthday: 1943-02-04
 title: Computer Scientist
-organizations:
-  - bell-labs
-  - google
-last_contact: 
-skills:
-  - programming
-interests:
-  - operating-systems
-  - programming-languages
+organizations: ['bell-labs', 'google']
+skills: ['programming']
+interests: ['operating-systems', 'programming-languages']
 url: https://en.wikipedia.org/wiki/Ken_Thompson
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New Orleans
 city: Berkeley Heights
 state: New Jersey
@@ -75,5 +61,8 @@ country: United States
 
 ## Notes
 
-- Ken Thompson's work on Unix and the C programming language laid the foundation for many aspects of modern computing, including the development of subsequent operating systems and software tools.
-- He received the Turing Award in 1984 for his contributions to computer science, jointly with Dennis Ritchie, for their development of generic operating systems theory and specifically for the implementation of the Unix operating system.
+
+
+
+
+

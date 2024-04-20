@@ -1,32 +1,16 @@
 ---
-tags:
-  - person
-  - entrepreneur
-  - philanthropist
+tags: ['person', 'entrepreneur', 'philanthropist']
+slug: bill-gates
 first_name: Bill
 last_name: Gates
-aliases:
-  - William Henry Gates III
-slug: bill-gates
+aliases: ['William Henry Gates III']
 birthday: 1955-10-28
 title: Co-founder of Microsoft, Philanthropist
-organizations:
-  - microsoft
-  - bill-and-melinda-gates-foundation
+organizations: ['microsoft', 'bill-and-melinda-gates-foundation']
 last_contact: 2022-01-01
-skills:
-  - software-development
-  - entrepreneurship
-interests:
-  - global-health
-  - education
+skills: ['software-development', 'entrepreneurship']
+interests: ['global-health', 'education']
 url: https://en.wikipedia.org/wiki/Bill_Gates
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Seattle, Washington
 city: Medina
 state: Washington
@@ -81,5 +65,8 @@ country: United States
 
 ## Notes
 
-- Bill Gates is known for his significant contributions to the development of the personal computer revolution, as well as his philanthropic efforts through the Bill & Melinda Gates Foundation.
-- Despite stepping down from his day-to-day role at Microsoft, Gates remains one of the most influential figures in technology and philanthropy.
+
+
+
+
+

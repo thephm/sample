@@ -1,26 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: donald-knuth
 first_name: Donald
 last_name: Knuth
 aliases: Knuth
-slug: donald-knuth
 birthday: 1938-01-10
-deathday: 
 title: Professor Emeritus, Stanford University
-organizations:
-  - stanford-university
-last_contact: 
-skills: [computer-science, mathematics]
-interests: [algorithm-design, typography]
+organizations: ['stanford-university']
+skills: ['computer-science', 'mathematics']
+interests: ['algorithm-design', 'typography']
 url: https://en.wikipedia.org/wiki/Donald_Knuth
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Milwaukee
 city: Stanford
 state: California
@@ -61,5 +50,8 @@ country: United States
 
 ## Notes
 
-- "The Art of Computer Programming" is considered one of the most influential works in the history of computer science, providing comprehensive coverage of algorithms and their analysis
-- known for his creation of the TeX typesetting system, which has become the standard for high-quality typesetting in the academic and scientific community
+
+
+
+
+

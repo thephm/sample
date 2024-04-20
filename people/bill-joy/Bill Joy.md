@@ -1,26 +1,13 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - programmer
+tags: ['person', 'computer-scientist', 'programmer']
+slug: bill-joy
 first_name: Bill
 last_name: Joy
-aliases: 
-slug: bill-joy
 birthday: 1954-11-08
-deathday: 
 title: Computer Scientist, Programmer
-organizations: 
-last_contact: 
-skills: [programming, operating-systems, software-development]
-interests: [technology-innovation, environmental-sustainability]
+skills: ['programming', 'operating-systems', 'software-development']
+interests: ['technology-innovation', 'environmental-sustainability']
 url: https://en.wikipedia.org/wiki/Bill_Joy
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Detroit
 city: Palo Alto
 state: California
@@ -68,4 +55,8 @@ country: United States
 
 ## Notes
 
-- Bill Joy's contributions to the field of computer science have had a profound impact on the development of operating systems, programming languages, and software engineering practices. He remains an influential figure in the technology industry and continues to advocate for the responsible use of technology to address global challenges.
+
+
+
+
+

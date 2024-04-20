@@ -1,28 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - artificial-intelligence
+tags: ['person', 'computer-scientist', 'artificial-intelligence']
+slug: john-mccarthy
 first_name: John
 last_name: McCarthy
-aliases: 
-slug: john-mccarthy
 birthday: 1927-09-04
 deathday: 2011-10-24
 title: Computer Scientist, Cognitive Scientist
-organizations:
-  - stanford-university
-  - mit
-last_contact: 
-skills: [artificial-intelligence, programming-languages, logic]
-interests: [philosophy, mathematics, cognitive-science]
+organizations: ['stanford-university', 'mit']
+skills: ['artificial-intelligence', 'programming-languages', 'logic']
+interests: ['philosophy', 'mathematics', 'cognitive-science']
 url: https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Boston
 city: Stanford
 state: California
@@ -67,6 +54,8 @@ country: United States
 
 ## Notes
 
-- John McCarthy's contributions to artificial intelligence have had a profound impact on computer science, philosophy, and cognitive science.
-- He was a leading advocate for the development of AI as a field of study and made significant contributions to its theoretical foundations and practical applications.
-- McCarthy's work laid the groundwork for many of the technologies and applications that are now central to modern computing and artificial intelligence.
+
+
+
+
+

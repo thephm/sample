@@ -1,25 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - cryptographer
+tags: ['person', 'computer-scientist', 'cryptographer']
+slug: shafi-goldwasser
 first_name: Shafi
 last_name: Goldwasser
-slug: shafi-goldwasser
 birthday: 1958-05-30
 title: Professor, Massachusetts Institute of Technology (MIT)
-organizations:
-  - mit
+organizations: ['mit']
 last_contact: 2022-02-15
-skills: [cryptography, complexity-theory, theoretical-computer-science]
-interests: [privacy, security, algorithms]
+skills: ['cryptography', 'complexity-theory', 'theoretical-computer-science']
+interests: ['privacy', 'security', 'algorithms']
 url: https://en.wikipedia.org/wiki/Shafi_Goldwasser
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New York City
 city: Cambridge
 state: Massachusetts
@@ -46,4 +36,8 @@ country: United States
 
 ## Notes
 
-- his contributions to cryptography have had a profound impact on the field, particularly in areas such as zero-knowledge proofs and secure multiparty computation.
+
+
+
+
+

@@ -1,33 +1,17 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - software-engineer
+tags: ['person', 'computer-scientist', 'software-engineer']
+slug: stuart-feldman
 first_name: Stuart
 last_name: Feldman
-slug: stuart-feldman
 birthday: 1943-08-07
 title: Computer Scientist, Software Engineer
-organizations:
-  - ibm
-  - bell-labs
-  - dec
-  - ibm-research
-last_contact: 
-skills: [programming-languages, software-development]
-interests: [computer-history, programming-languages]
+organizations: ['ibm', 'bell-labs', 'dec', 'ibm-research']
+skills: ['programming-languages', 'software-development']
+interests: ['computer-history', 'programming-languages']
 url: https://en.wikipedia.org/wiki/Stuart_Feldman
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Brooklyn
-city: 
 state: New York
 country: United States
-
 ---
 
 # Stuart Feldman
@@ -65,4 +49,8 @@ country: United States
 
 ## Notes
 
-- Stuart Feldman's work on Make has had a significant impact on software development practices, enabling developers to efficiently manage complex build processes.
+
+
+
+
+

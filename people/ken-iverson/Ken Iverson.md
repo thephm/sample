@@ -1,30 +1,18 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: ken-iverson
 first_name: Ken
 last_name: Iverson
-slug: ken-iverson
 birthday: 1920-12-17
 deathday: 2004-10-19
 title: Computer Scientist, Mathematician
-organizations: 
-  - ibm
-last_contact: 
-skills: [programming-languages, mathematical-notation]
-interests: [applied-mathematics, software-engineering]
+organizations: ['ibm']
+skills: ['programming-languages', 'mathematical-notation']
+interests: ['applied-mathematics', 'software-engineering']
 url: https://en.wikipedia.org/wiki/Ken_Iverson
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Camrose
 city: Toronto
-province: Ontario
 country: Canada
-
 ---
 
 # Ken Iverson
@@ -64,4 +52,8 @@ country: Canada
 
 ## Notes
 
-- his work on APL had a significant impact on the field of computer science, particularly in the areas of programming languages and mathematical notation.
+
+
+
+
+

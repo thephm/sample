@@ -1,33 +1,17 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - mathematician
-  - navy-officer
+tags: ['person', 'computer-scientist', 'mathematician', 'navy-officer']
+slug: grace-hopper
 first_name: Grace
 last_name: Hopper
-aliases:
-  - Grace Brewster Murray Hopper
-slug: grace-hopper
+aliases: ['Grace Brewster Murray Hopper']
 birthday: 1906-12-09
-title: Computer Scientist, Rear Admiral
-organizations:
-  - united-states-navy
-last_contact: 1992-01-01
 deathday: 1992-01-01
-skills:
-  - computer-programming
-  - leadership
-interests:
-  - computer-science-education
-  - programming-languages
+title: Computer Scientist, Rear Admiral
+organizations: ['united-states-navy']
+last_contact: 1992-01-01
+skills: ['computer-programming', 'leadership']
+interests: ['computer-science-education', 'programming-languages']
 url: https://en.wikipedia.org/wiki/Grace_Hopper
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New York City
 city: Arlington
 state: Virginia
@@ -82,5 +66,8 @@ country: United States
 
 ## Notes
 
-- Grace Hopper's contributions to computer science and technology, including the invention of the compiler and her advocacy for machine-independent programming languages, have had a profound impact on the field.
-- She was a pioneer in promoting the idea of programming languages based on English-like syntax, making computers more accessible to a wider range of users.
+
+
+
+
+

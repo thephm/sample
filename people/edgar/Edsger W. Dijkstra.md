@@ -1,28 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: edsger-dijkstra
 first_name: Edsger
 last_name: Dijkstra
 aliases: Dijkstra
-slug: edsger-dijkstra
 birthday: 1930-05-11
 deathday: 2002-08-06
-title: 
-organizations: []
-last_contact: 
-skills: [algorithm-design, programming-languages]
-interests: [formal-methods, software-engineering]
+skills: ['algorithm-design', 'programming-languages']
+interests: ['formal-methods', 'software-engineering']
 url: https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Rotterdam
 city: Nuenen
-state: 
 country: Netherlands
 ---
 
@@ -63,6 +51,8 @@ country: Netherlands
 
 ## Notes
 
-- Dijkstra's work laid the foundation for modern programming practices, emphasizing the importance of structured programming and rigorous algorithmic analysis.
-- He was a strong advocate for simplicity and elegance in software design, often criticizing overly complex solutions.
-- Dijkstra's contributions to computer science have had a lasting impact, influencing generations
+
+
+
+
+

@@ -1,33 +1,19 @@
 ---
-tags:
-  - person
-  - mathematician
-  - electrical-engineer
+tags: ['person', 'mathematician', 'electrical-engineer']
+slug: claude-shannon
 first_name: Claude
 last_name: Shannon
 aliases: Claude Elwood Shannon
-slug: claude-shannon
 birthday: 1916-04-30
 deathday: 2001-02-24
 title: Mathematician, Electrical Engineer
-organizations:
-  - bell-labs
-  - mit
-last_contact: 
-skills: [information-theory, cryptography]
-interests: [puzzle-solving, machine-learning]
+organizations: ['bell-labs', 'mit']
+skills: ['information-theory', 'cryptography']
+interests: ['puzzle-solving', 'machine-learning']
 url: https://en.wikipedia.org/wiki/Claude_Shannon
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Petoskey
-city: 
 state: Michigan
 country: United States
-
 ---
 
 # Claude Shannon
@@ -70,5 +56,8 @@ country: United States
 
 ## Notes
 
-- Shannon's work on information theory revolutionized the field of communication and laid the groundwork for modern digital technology.
-- He is also known for his contributions to cryptography, including his invention of the unbreakable "one-time pad" encryption technique.
+
+
+
+
+

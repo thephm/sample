@@ -1,33 +1,17 @@
 ---
-tags:
-  - person
-  - entrepreneur
-  - philanthropist
+tags: ['person', 'entrepreneur', 'philanthropist']
+slug: paul-allen
 first_name: Paul
 last_name: Allen
-aliases: 
-slug: paul-allen
 birthday: 1953-01-21
 deathday: 2018-10-15
 title: Co-founder, Microsoft Corporation
-organizations:
-  - microsoft
-  - vulcan
-last_contact: 
-skills: [programming, entrepreneurship, philanthropy]
-interests: [technology, sports, conservation]
+organizations: ['microsoft', 'vulcan']
+skills: ['programming', 'entrepreneurship', 'philanthropy']
+interests: ['technology', 'sports', 'conservation']
 url: https://en.wikipedia.org/wiki/Paul_Allen
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Seattle, Washington
-city: 
-state: 
 country: United States
-
 ---
 
 # Paul Allen
@@ -70,5 +54,8 @@ country: United States
 
 ## Notes
 
-- Paul Allen's contributions to the technology industry, particularly through Microsoft, have had a profound impact on the way people live, work, and communicate.
-- He was also a generous philanthropist, supporting various causes related to education, healthcare, and environmental conservation.
+
+
+
+
+

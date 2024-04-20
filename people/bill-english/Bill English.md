@@ -1,28 +1,15 @@
 ---
-tags:
-  - person
-  - engineer
+tags: ['person', 'engineer']
+slug: bill-english
 first_name: Bill
 last_name: English
-slug: bill-english
 birthday: 1929-01-27
 deathday: 2020-07-26
 title: Engineer
-organizations: [sri]
-last_contact: 
-skills: [engineering, computer-hardware]
-interests: [innovation, technology]
+organizations: ['sri']
+skills: ['engineering', 'computer-hardware']
+interests: ['innovation', 'technology']
 url: https://en.wikipedia.org/wiki/Bill_English_(engineer)
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Bill English
@@ -62,5 +49,8 @@ country:
 
 ## Notes
 
-- Bill English's work alongside Douglas Engelbart laid the foundation for modern human-computer interaction, revolutionizing the way users interact with computers.
-- His contributions to computer hardware design have had a lasting impact on the field of computing.
+
+
+
+
+

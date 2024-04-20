@@ -1,30 +1,14 @@
 ---
-tags:
-  - person
+tags: ['person']
+slug: jeff-bezos
 first_name: Jeff
 last_name: Bezos
 aliases: Bezos
-slug: jeff-bezos
 birthday: 1964-01-12
-deathday: 
-title:  Founder, CEO, President
-organizations: 
-  - amazon
-last_contact: 
-skills: 
-interests: 
-url: 
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
+title: Founder, CEO, President
+organizations: ['amazon']
 state: California
 country: U.S.A.
-zip:
 ---
 
 # Jeff Bezos
@@ -65,4 +49,8 @@ zip:
 
 ## Notes
 
-- 
+
+
+
+
+

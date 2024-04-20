@@ -1,28 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
-  - internet-pioneer
+tags: ['person', 'computer-scientist', 'internet-pioneer']
+slug: jon-postel
 first_name: Jon
 last_name: Postel
 aliases: Jon
-slug: jon-postel
 birthday: 1943-08-06
 title: Co-founder, IETF
-organizations:
-  - arpa
-  - ietf
-  - usc-isi
+organizations: ['arpa', 'ietf', 'usc-isi']
 last_contact: 1998-10-15
-skills: [networking, protocol design]
-interests: [internet-governance, network-security]
+skills: ['networking', 'protocol design']
+interests: ['internet-governance', 'network-security']
 url: https://en.wikipedia.org/wiki/Jon_Postel
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Altadena
 city: Los Angeles
 state: California
@@ -68,5 +56,8 @@ country: United States
 
 ## Notes
 
-- his commitment to openness, collaboration, and technical excellence laid the foundation for the modern Internet as we know it today
-- played a crucial role in the development of the Domain Name System (DNS), Simple Mail Transfer Protocol (SMTP), and other fundamental internet protocols.
+
+
+
+
+

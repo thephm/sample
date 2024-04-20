@@ -1,29 +1,13 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: adele-goldberg
 first_name: Adele
 last_name: Goldberg
-aliases: 
-slug: adele-goldberg
 birthday: 1945-07-07
-deathday: 
 title: Computer Scientist, Entrepreneur
-organizations: 
-last_contact: 
-skills: [programming, user-interface-design]
-interests: [object-oriented programming, software-development]
+skills: ['programming', 'user-interface-design']
+interests: ['object-oriented programming', 'software-development']
 url: https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country: 
 ---
 
 # Adele Goldberg
@@ -65,4 +49,8 @@ country:
 
 ## Notes
 
-- their work on Smalltalk has had a significant impact on the field of programming languages and software development, particularly in the area of object-oriented programming.
+
+
+
+
+

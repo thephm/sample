@@ -1,32 +1,12 @@
 ---
-tags:
-  - person
+tags: ['person']
+slug: jim-gray
 first_name: Jim
 last_name: Gray
-aliases: 
-slug: jim-gray
 birthday: 1944-01-12
 deathday: 2007-01-28
 title: Computer Scientist
-organizations: 
-  - microsoft
-  - ibm
-  - tandem-computers
-last_contact: 
-skills: 
-interests: 
-url: 
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
-city: 
-state: 
-country:
-zip:
+organizations: ['microsoft', 'ibm', 'tandem-computers']
 ---
 
 # Jim Gray
@@ -63,4 +43,8 @@ zip:
 
 ## Notes
 
-- 
+
+
+
+
+

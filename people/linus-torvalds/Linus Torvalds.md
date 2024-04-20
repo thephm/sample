@@ -1,31 +1,18 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: linus-torvalds
 first_name: Linus
 last_name: Torvalds
-aliases: [Linux Torvalds]
-slug: linus-torvalds
+aliases: ['Linux Torvalds']
 birthday: 1969-12-28
 title: Software Engineer
-organizations:
-  - linux-foundation
+organizations: ['linux-foundation']
 last_contact: 2024-03-09
-skills:
-  - software development
-interests:
-  - open-source
-  - version-control
+skills: ['software development']
+interests: ['open-source', 'version-control']
 url: https://en.wikipedia.org/wiki/Linus_Torvalds
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Helsinki
 city: Helsinki
-state: 
 country: Finland
 ---
 
@@ -65,4 +52,8 @@ country: Finland
 
 ## Notes
 
-- Linus Torvalds' decision to release the Linux kernel under the GNU General Public License (GPL) helped foster the growth of open-source software and led to the development of a vibrant ecosystem of free software projects.
+
+
+
+
+

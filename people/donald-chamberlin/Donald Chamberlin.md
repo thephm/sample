@@ -1,26 +1,15 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: donald-chamberlin
 first_name: Donald
 last_name: Chamberlin
 aliases: Don
-slug: donald-chamberlin
 birthday: 1944-06-01
-deathday: 
 title: Computer Scientist
-organizations: [ibm]
-last_contact: 
-skills: [database-management, programming]
-interests: [data-modeling, query-languages]
+organizations: ['ibm']
+skills: ['database-management', 'programming']
+interests: ['data-modeling', 'query-languages']
 url: https://en.wikipedia.org/wiki/Donald_D._Chamberlin
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
-hometown: 
 city: San Francisco
 state: California
 country: United States
@@ -64,5 +53,8 @@ country: United States
 
 ## Notes
 
-- Donald Chamberlin's work has had a significant impact on the field of database management and has contributed to the widespread adoption of SQL as a standard language for interacting with databases.
-- He continues to be actively involved in research and development, focusing on data modeling and query languages.
+
+
+
+
+

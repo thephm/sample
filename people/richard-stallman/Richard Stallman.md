@@ -1,30 +1,16 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: richard-stallman
 first_name: Richard
 last_name: Stallman
-aliases: [rms]
-slug: richard-stallman
+aliases: ['rms']
 birthday: 1953-03-16
 title: Software Freedom Activist
-organizations:
-  - free-software-foundation
-  - gnu-project
+organizations: ['free-software-foundation', 'gnu-project']
 last_contact: 2024-03-09
-skills:
-  - programming
-  - activism
-interests:
-  - free-software
-  - digital-rights
+skills: ['programming', 'activism']
+interests: ['free-software', 'digital-rights']
 url: https://en.wikipedia.org/wiki/Richard_Stallman
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: New York City
 city: Cambridge
 state: Massachusetts
@@ -71,4 +57,8 @@ country: United States
 
 ## Notes
 
-- Richard Stallman's advocacy for free software and digital rights has had a profound impact on the development of the modern software industry and the protection of user freedoms.
+
+
+
+
+

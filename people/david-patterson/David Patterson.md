@@ -1,28 +1,18 @@
 ---
-tags:
-  - person
-  - computer-scientist
+tags: ['person', 'computer-scientist']
+slug: david-patterson
 first_name: David
 last_name: Patterson
-slug: david-patterson
 birthday: 1947-11-16
 title: Computer Scientist, Professor
-organizations: [university-of-california, berkeley]
-last_contact: 
-skills: [computer-architecture, parallel-computing]
-interests: [machine-learning, hardware-design]
+organizations: ['university-of-california', 'berkeley']
+skills: ['computer-architecture', 'parallel-computing']
+interests: ['machine-learning', 'hardware-design']
 url: https://en.wikipedia.org/wiki/David_A._Patterson
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Evergreen Park
 city: Berkeley
 state: California
 country: United States
-
 ---
 
 # David Patterson
@@ -63,4 +53,8 @@ country: United States
 
 ## Notes
 
-- his work on computer architecture has been instrumental in advancing the field of computing, particularly in the design of high-performance and energy-efficient processors.
+
+
+
+
+

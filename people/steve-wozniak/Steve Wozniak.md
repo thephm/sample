@@ -1,26 +1,15 @@
 ---
-tags:
-  - person
-  - engineer
-  - entrepreneur
+tags: ['person', 'engineer', 'entrepreneur']
+slug: steve-wozniak
 first_name: Steve
 last_name: Wozniak
 aliases: Woz
-slug: steve-wozniak
 birthday: 1950-08-11
-deathday: 
 title: Co-founder, Apple Inc.
-organizations: [apple]
-last_contact: 
-skills: [engineering, entrepreneurship]
-interests: [technology, philanthropy]
+organizations: ['apple']
+skills: ['engineering', 'entrepreneurship']
+interests: ['technology', 'philanthropy']
 url: https://en.wikipedia.org/wiki/Steve_Wozniak
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: San Jose
 city: Los Gatos
 state: California
@@ -66,5 +55,8 @@ country: United States
 
 ## Notes
 
-- Wozniak's engineering prowess and innovative spirit have left an indelible mark on the technology industry.
-- He is known for his philanthropic efforts, particularly in promoting technology education and supporting young innovators.
+
+
+
+
+

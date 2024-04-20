@@ -1,26 +1,13 @@
 ---
-tags:
-  - person
-  - executive
-  - entrepreneur
+tags: ['person', 'executive', 'entrepreneur']
+slug: eric-schmidt
 first_name: Eric
 last_name: Schmidt
-aliases: 
-slug: eric-schmidt
 birthday: 1955-04-27
-deathday: 
 title: Former CEO of Google
-organizations: 
-last_contact: 
-skills: [leadership, technology strategy, management]
-interests: [innovation, artificial intelligence, environmental sustainability]
+skills: ['leadership', 'technology strategy', 'management']
+interests: ['innovation', 'artificial intelligence', 'environmental sustainability']
 url: https://en.wikipedia.org/wiki/Eric_Schmidt
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: Washington, D.C.
 city: Washington, D.C.
 state: District of Columbia
@@ -66,5 +53,8 @@ country: United States
 
 ## Notes
 
-- played a pivotal role in Google's transformation from a small startup to one of the world's most influential technology companies.
-- He is a strong advocate for innovation and has been involved in various philanthropic initiatives aimed at promoting education and environmental sustainability.
+
+
+
+
+

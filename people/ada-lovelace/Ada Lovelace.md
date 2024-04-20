@@ -1,32 +1,17 @@
 ---
-tags:
-  - person
-  - mathematician
-  - writer
+tags: ['person', 'mathematician', 'writer']
+slug: ada-lovelace
 first_name: Ada
 last_name: Lovelace
-slug: ada-lovelace
 birthday: 1815-12-10
 deathday: 1852-11-27
 title: Mathematician, Writer
-organizations:
-  - british-computer-society
-last_contact: 
-skills:
-  - mathematics
-interests:
-  - computer science
-  - algorithm
+organizations: ['british-computer-society']
+skills: ['mathematics']
+interests: ['computer science', 'algorithm']
 url: https://en.wikipedia.org/wiki/Ada_Lovelace
-email: 
-mobile: 
-phone: 
-linkedin_id: 
-x_id: 
-instagram_id: 
 hometown: London
 city: London
-state: 
 country: United Kingdom
 ---
 
@@ -73,3 +58,7 @@ country: United Kingdom
 
 - Ada Lovelace's contributions to computing were not widely recognized until the 1950s, but she is now celebrated as a pioneer in the field and her insights into the potential of computing were far ahead of her time.
 - The Ada programming language, designed for the US Department of Defense, was named in her honor in 1980.
+
+
+![[ada-lovelace/2024-03-01.md]]
+
