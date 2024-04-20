@@ -45,9 +45,3 @@ url: https://en.wikipedia.org/wiki/Alan_Cooper
 ## Notes
 
 - Alan Cooper's contributions to interaction design have helped shape the way software is designed and experienced by users worldwide. He is a vocal advocate for user-centered design principles and continues to influence the industry through his writing and consulting work.
-
-
-![[alan-cooper/1816-02-01.md]]
-
-![[alan-cooper/2024-12-13.md]]
-
